@@ -1,0 +1,17 @@
+body { background-color: mistyrose;
+     }
+hr   {
+       border-style: none;
+       border-top-style: dotted;
+       border-width: 5px;
+       border-color: grey;
+       height: 0px;
+       width: 10%;
+     }
+img  { height: 250px;
+     }
+h1   { font-family: serif;
+       color: #d8345f;
+     }
+h3   {color: #d8345f;
+     }
